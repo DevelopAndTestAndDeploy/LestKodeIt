@@ -3,7 +3,7 @@
     <test name="Application Test" preserve-order="true">
         <parameter name="browser" value="chrome"></parameter>
         <classes>
-            <!--<class name="com.letskodeit.testclasses.LoginTests"></class>-->
+            <class name="com.letskodeit.testclasses.LoginTests"></class>
            <class name="com.letskodeit.testclasses.AllCoursesTests"></class>
             <class name="com.letskodeit.testclasses.LoginTests"></class>
 
