@@ -1,0 +1,67 @@
+06:38:50.114 TRACE overview.LoggingDemo -Trace message printed
+06:38:50.136 DEBUG overview.LoggingDemo -Debug message printed
+06:38:50.137 ERROR overview.LoggingDemo -Error message printed
+06:38:50.137 INFO  overview.LoggingDemo -Info message printed
+06:38:50.137 FATAL overview.LoggingDemo -Fatal message printed
+06:53:19.662 INFO  base.CheckPoint -Clearing the Hash Map
+06:53:29.748 INFO  utilities.Util -Date and Time :: 02_20_2020 06_53_29
+06:53:50.168 INFO  utilities.Util -Date and Time :: 02_20_2020 06_53_50
+06:54:00.596 INFO  base.CheckPoint -Clearing the Hash Map
+06:54:09.608 INFO  utilities.Util -Date and Time :: 02_20_2020 06_54_09
+06:54:09.629 INFO  utilities.Util -Date and Time :: 02_20_2020 06_54_09
+06:55:15.260 INFO  base.CheckPoint -Clearing the Hash Map
+06:55:25.338 INFO  utilities.Util -Date and Time :: 02_20_2020 06_55_25
+06:55:40.852 INFO  utilities.Util -Date and Time :: 02_20_2020 06_55_40
+06:55:40.876 INFO  base.CheckPoint -Clearing the Hash Map
+06:55:40.885 INFO  utilities.Util -Date and Time :: 02_20_2020 06_55_40
+06:55:40.907 INFO  utilities.Util -Date and Time :: 02_20_2020 06_55_40
+07:03:02.177 INFO  base.WebDriverFactory -OS Name from system property :: win
+07:03:02.185 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\charm\IdeaProjects\letskodeit//drivers//chromedriver.exe
+07:03:18.010 INFO  base.CustomDriver -Clicked On :: Login Link
+07:03:26.084 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: developandtestanddeploy@gmail.com
+07:03:26.181 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: abcabc
+07:03:28.380 INFO  base.CustomDriver -Clicked On :: Login Button
+07:03:28.872 INFO  base.CheckPoint -Clearing Results Hash Map
+07:03:38.903 ERROR base.CustomDriver -Element not found with: xpath=>//a[contains(text(), 'All Courses')]
+07:03:38.906 ERROR base.CustomDriver -Cannot click on :: ALL Courses Link
+07:03:38.907 INFO  utilities.Util -Date and Time :: 02_20_2020 07_03_38
+07:03:39.292 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\charm\IdeaProjects\letskodeit//test-output/screenshots//_Click ERROR_02_20_2020 07_03_38.png
+07:03:49.344 ERROR base.CustomDriver -Element not found with: id=>search-courses
+07:03:49.348 ERROR base.CustomDriver -Cannot send keys on element :: Search Course Field with data :: rest api
+07:03:59.385 ERROR base.CustomDriver -Element not found with: id=>search-course-button
+07:03:59.390 ERROR base.CustomDriver -Cannot click on :: Search Course Button
+07:03:59.390 INFO  utilities.Util -Date and Time :: 02_20_2020 07_03_59
+07:03:59.759 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\charm\IdeaProjects\letskodeit//test-output/screenshots//_Click ERROR_02_20_2020 07_03_59.png
+07:04:09.803 INFO  base.CustomDriver -Element List not found with: xpath=>//div[@class='course-listing']
+07:04:09.809 INFO  base.CustomDriver -Current URL is :: https://sso.teachable.com/secure/42299/users/sign_in?flow_school_id=42299
+07:04:09.822 INFO  base.CheckPoint -Clearing Results Hash Map
+07:04:19.862 ERROR base.CustomDriver -Element not found with: xpath=>//a[contains(text(), 'All Courses')]
+07:04:19.866 ERROR base.CustomDriver -Cannot click on :: ALL Courses Link
+07:04:19.867 INFO  utilities.Util -Date and Time :: 02_20_2020 07_04_19
+07:04:20.236 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\charm\IdeaProjects\letskodeit//test-output/screenshots//_Click ERROR_02_20_2020 07_04_19.png
+07:04:30.269 ERROR base.CustomDriver -Element not found with: id=>search-courses
+07:04:30.271 ERROR base.CustomDriver -Cannot send keys on element :: Search Course Field with data :: javascript
+07:04:40.322 ERROR base.CustomDriver -Element not found with: id=>search-course-button
+07:04:40.328 ERROR base.CustomDriver -Cannot click on :: Search Course Button
+07:04:40.329 INFO  utilities.Util -Date and Time :: 02_20_2020 07_04_40
+07:04:40.701 INFO  base.CustomDriver -Screen Shot Was Stored at: C:\Users\charm\IdeaProjects\letskodeit//test-output/screenshots//_Click ERROR_02_20_2020 07_04_40.png
+07:04:50.724 INFO  base.CustomDriver -Element List not found with: xpath=>//div[@class='course-listing']
+07:04:50.728 INFO  base.CustomDriver -Current URL is :: https://sso.teachable.com/secure/42299/users/sign_in?flow_school_id=42299
+07:08:24.085 INFO  base.WebDriverFactory -OS Name from system property :: win
+07:08:24.093 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\charm\IdeaProjects\letskodeit//drivers//chromedriver.exe
+07:08:41.176 INFO  base.CustomDriver -Clicked On :: Login Link
+07:08:48.414 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: developandtestanddeploy@gmail.com
+07:08:48.508 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: abcabc
+07:08:58.815 INFO  base.CustomDriver -Clicked On :: Login Button
+07:08:59.297 INFO  base.CheckPoint -Clearing Results Hash Map
+07:08:59.365 INFO  base.CustomDriver -Clicked On :: ALL Courses Link
+07:08:59.498 INFO  base.CustomDriver -Send Keys on element :: Search Course Field with data :: rest api
+07:09:00.889 INFO  base.CustomDriver -Clicked On :: Search Course Button
+07:09:00.923 INFO  base.CustomDriver -Element List found with: xpath=>//div[@class='course-listing']
+07:09:00.929 INFO  base.CustomDriver -Current URL is :: https://learn.letskodeit.com/courses?query=rest+api
+07:09:00.933 INFO  base.CheckPoint -Clearing Results Hash Map
+07:09:00.986 INFO  base.CustomDriver -Clicked On :: ALL Courses Link
+07:09:01.105 INFO  base.CustomDriver -Send Keys on element :: Search Course Field with data :: javascript
+07:09:02.089 INFO  base.CustomDriver -Clicked On :: Search Course Button
+07:09:02.101 INFO  base.CustomDriver -Element List found with: xpath=>//div[@class='course-listing']
+07:09:02.105 INFO  base.CustomDriver -Current URL is :: https://learn.letskodeit.com/courses?query=javascript

@@ -1,0 +1,49 @@
+10:20:45.520 INFO  base.WebDriverFactory -OS Name from system property :: win
+10:20:45.537 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\charm\IdeaProjects\letskodeit//drivers//geckodriver.exe.exe
+10:20:45.708 INFO  base.WebDriverFactory -OS Name from system property :: win
+10:20:45.708 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\charm\IdeaProjects\letskodeit//drivers//geckodriver.exe.exe
+10:21:08.902 INFO  base.WebDriverFactory -OS Name from system property :: win
+10:21:08.910 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\charm\IdeaProjects\letskodeit//drivers//chromedriver.exe
+10:21:22.759 INFO  base.CustomDriver -Clicked On :: Login Link
+10:21:26.148 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: developandtestanddeploy@gmail.com
+10:21:26.253 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: abcabc
+10:21:30.782 INFO  base.CustomDriver -Clicked On :: Login Button
+10:21:31.372 INFO  base.CheckPoint -Clearing Results Hash Map
+10:21:31.436 INFO  base.CustomDriver -Clicked On :: ALL Courses Link
+10:21:31.574 INFO  base.CustomDriver -Send Keys on element :: Search Course Field with data :: rest api
+10:21:32.357 INFO  base.CustomDriver -Clicked On :: Search Course Button
+10:21:32.380 INFO  base.CustomDriver -Element List found with: xpath=>//div[@class='course-listing']
+10:21:32.385 INFO  base.CustomDriver -Current URL is :: https://learn.letskodeit.com/courses?query=rest+api
+10:21:32.390 INFO  base.CheckPoint -Clearing Results Hash Map
+10:21:32.449 INFO  base.CustomDriver -Clicked On :: ALL Courses Link
+10:21:32.570 INFO  base.CustomDriver -Send Keys on element :: Search Course Field with data :: javascript
+10:21:33.950 INFO  base.CustomDriver -Clicked On :: Search Course Button
+10:21:33.962 INFO  base.CustomDriver -Element List found with: xpath=>//div[@class='course-listing']
+10:21:33.968 INFO  base.CustomDriver -Current URL is :: https://learn.letskodeit.com/courses?query=javascript
+10:21:34.678 INFO  base.WebDriverFactory -OS Name from system property :: win
+10:21:34.678 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\charm\IdeaProjects\letskodeit//drivers//chromedriver.exe
+10:21:46.675 INFO  base.CustomDriver -Clicked On :: Login Link
+10:21:46.676 INFO  base.CheckPoint -Clearing Results Hash Map
+10:21:49.832 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: test@email
+10:21:49.928 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: abcabc
+10:21:51.240 INFO  base.CustomDriver -Clicked On :: Login Button
+10:22:01.277 INFO  base.CustomDriver -Element List not found with: class=>gravatar
+10:22:11.338 INFO  base.CustomDriver -Element List not found with: class=>gravatar
+10:22:11.339 INFO  base.CheckPoint -Clearing Results Hash Map
+10:22:11.493 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: developandtestanddeploy@gmail.com
+10:22:11.576 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: abcabc
+10:22:16.151 INFO  base.CustomDriver -Clicked On :: Login Button
+10:22:16.187 INFO  utilities.Util -Actual Text From Web Application UI   --> : All Courses
+10:22:16.187 INFO  utilities.Util -Expected Text From Web Application UI --> : All Courses
+10:22:16.187 INFO  utilities.Util -### Verification Contains !!!
+10:22:16.187 INFO  base.CheckPoint -test-01.Header verification :-> PASS
+10:22:16.201 INFO  base.CustomDriver -Element List found with: class=>gravatar
+10:22:16.201 INFO  base.CheckPoint -test-01.Login verification :-> PASS
+10:22:16.201 INFO  base.CheckPoint -Test Method Successful
+10:22:16.201 INFO  base.CheckPoint -Test Method Successful
+10:22:16.211 INFO  base.CustomDriver -Element List found with: class=>gravatar
+10:22:16.267 INFO  base.CustomDriver -Clicked On :: User Account Icon
+10:22:16.270 INFO  base.CustomDriver -Waiting for max:: 10 seconds for element to be available
+10:22:16.337 INFO  base.CustomDriver -Element appeared on the web page
+10:22:18.187 INFO  base.CustomDriver -Clicked on :: Logout Link
+10:22:18.251 INFO  base.CustomDriver -Clicked On :: Login Link

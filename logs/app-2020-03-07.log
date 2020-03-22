@@ -1,0 +1,36 @@
+10:24:16.773 INFO  base.WebDriverFactory -OS Name from system property :: win
+10:24:16.800 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\charm\IdeaProjects\letskodeit//drivers//chromedriver.exe
+10:24:32.945 INFO  base.CustomDriver -Clicked On :: Login Link
+10:24:37.529 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: developandtestanddeploy@gmail.com
+10:24:37.650 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: abcabc
+10:24:43.494 INFO  base.CustomDriver -Clicked On :: Login Button
+10:24:44.125 INFO  base.CheckPoint -Clearing Results Hash Map
+10:24:44.197 INFO  base.CustomDriver -Clicked On :: ALL Courses Link
+10:24:44.411 INFO  base.CustomDriver -Send Keys on element :: Search Course Field with data :: rest api
+10:24:45.225 INFO  base.CustomDriver -Clicked On :: Search Course Button
+10:24:45.249 INFO  base.CustomDriver -Element List found with: xpath=>//div[@class='course-listing']
+10:24:45.255 INFO  base.CustomDriver -Current URL is :: https://learn.letskodeit.com/courses?query=rest+api
+10:24:45.259 INFO  base.CheckPoint -Clearing Results Hash Map
+10:24:45.337 INFO  base.CustomDriver -Clicked On :: ALL Courses Link
+10:24:45.481 INFO  base.CustomDriver -Send Keys on element :: Search Course Field with data :: javascript
+10:24:46.291 INFO  base.CustomDriver -Clicked On :: Search Course Button
+10:24:46.307 INFO  base.CustomDriver -Element List found with: xpath=>//div[@class='course-listing']
+10:24:46.310 INFO  base.CustomDriver -Current URL is :: https://learn.letskodeit.com/courses?query=javascript
+12:05:47.512 INFO  base.WebDriverFactory -OS Name from system property :: win
+12:05:47.527 INFO  base.WebDriverFactory -Driver Binary :: C:\Users\charm\IdeaProjects\letskodeit//drivers//chromedriver.exe
+12:06:02.088 INFO  base.CustomDriver -Clicked On :: Login Link
+12:06:06.028 INFO  base.CustomDriver -Send Keys on element :: Email Field with data :: developandtestanddeploy@gmail.com
+12:06:06.137 INFO  base.CustomDriver -Send Keys on element :: Password Field with data :: abcabc
+12:06:10.735 INFO  base.CustomDriver -Clicked On :: Login Button
+12:06:11.364 INFO  base.CheckPoint -Clearing Results Hash Map
+12:06:11.438 INFO  base.CustomDriver -Clicked On :: ALL Courses Link
+12:06:11.663 INFO  base.CustomDriver -Send Keys on element :: Search Course Field with data :: rest api
+12:06:12.897 INFO  base.CustomDriver -Clicked On :: Search Course Button
+12:06:12.929 INFO  base.CustomDriver -Element List found with: xpath=>//div[@class='course-listing']
+12:06:12.938 INFO  base.CustomDriver -Current URL is :: https://learn.letskodeit.com/courses?query=rest+api
+12:06:12.947 INFO  base.CheckPoint -Clearing Results Hash Map
+12:06:13.024 INFO  base.CustomDriver -Clicked On :: ALL Courses Link
+12:06:13.182 INFO  base.CustomDriver -Send Keys on element :: Search Course Field with data :: javascript
+12:06:14.024 INFO  base.CustomDriver -Clicked On :: Search Course Button
+12:06:14.034 INFO  base.CustomDriver -Element List found with: xpath=>//div[@class='course-listing']
+12:06:14.038 INFO  base.CustomDriver -Current URL is :: https://learn.letskodeit.com/courses?query=javascript
